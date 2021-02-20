@@ -5,7 +5,7 @@ set -e
 REPOSITORY=$(cut -d '/' -f 2 <<< "$GITHUB_ACTION_REPOSITORY")
 
 echo "Running github_changelog_generator with the following settings:"
-echo "Repository: $REPOSITORY"
+echo "Repository: $GITHUB_ACTION_REPOSITORY"
 echo "Repository owner: $GITHUB_REPOSITORY_OWNER"
 echo "Output: $INPUT_OUTPUT"
 
