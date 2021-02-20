@@ -1,0 +1,43 @@
+name: Generate CHANGELOG
+description: Github CHANGELOG generator
+author: tj-actions
+inputs:
+  token:
+    description: 'GITHUB_TOKEN or a Repo scoped PAT'
+    required: true
+    default: ${{ github.token }}
+  user:
+    description: 'Github repository owner'
+    required: false
+    default: ${{ github.repository_owner }}
+  repository:
+    description: 'Github repository'
+    required: false
+  output:
+    description: 'Output file'
+    required: false
+    default: 'CHANGELOG.md'
+
+runs:
+  using: 'composite'
+  steps:
+    - id: install
+      run: |
+        gem install github_changelog_generator
+      shell: bash
+    - id: changelog
+      run: |
+        REPOSITORY="${{ inputs.token }}"
+        if [ -z $REPOSITORY ]; then
+          REPOSITORY="$(cut -d '/' -f 2 <<< ${{ github.repository }})"
+        fi
+        github_changelog_generator \
+          -u ${{ inputs.user }} \
+          -p "${REPOSITORY}" \
+          --token "${{ inputs.token }}" \
+          -o "${{ inputs.output }}"
+      shell: bash
+
+branding:
+  icon: list
+  color: white
