@@ -6,13 +6,6 @@ inputs:
     description: 'GITHUB_TOKEN or a Repo scoped PAT'
     required: true
     default: ${{ github.token }}
-  user:
-    description: 'Github repository owner'
-    required: false
-    default: ${{ github.repository_owner }}
-  repository:
-    description: 'Github repository'
-    required: false
   output:
     description: 'Output file'
     required: false
@@ -22,8 +15,6 @@ runs:
   using: 'docker'
   image: 'Dockerfile'
   entrypoint: 'entrypoint.sh'
-  args:
-    - ${{ github.repository }}
 branding:
   icon: list
   color: white
