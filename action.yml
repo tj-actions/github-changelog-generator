@@ -9,12 +9,15 @@ inputs:
   output:
     description: 'Output file'
     required: false
-    default: 'CHANGELOG.md'
+    default: "CHANGELOG.md"
 
 runs:
   using: 'docker'
   image: 'Dockerfile'
   entrypoint: '/entrypoint.sh'
+  args:
+    - ${{ input.token }}
+    - ${{ input.output }}
 branding:
   icon: list
   color: white
