@@ -21,9 +21,8 @@ jobs:
       - name: Generate CHANGELOG
         uses: tj-actions/github-changelog-generator@v1.1
         with:
+          token: ${{ secrets.PAT_TOKEN }}
           output: 'HISTORY.md'
-      - run: |
-          git add README.md HISTORY.md
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
