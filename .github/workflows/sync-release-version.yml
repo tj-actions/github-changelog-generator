@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Bumpversion release version.
+      - name: Sync release version.
         uses: tj-actions/sync-release-version@v8
         id: sync-release-version
         with:
