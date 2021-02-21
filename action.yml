@@ -1,4 +1,4 @@
-name: New github changelog-generator 
+name: New github-changelog-generator 
 description: Github CHANGELOG generator
 author: tj-actions
 inputs:
