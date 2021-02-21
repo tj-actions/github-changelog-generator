@@ -20,7 +20,7 @@ jobs:
         with:
           output: 'HISTORY.md'
       - name: Run github-changelog-generator with PAT token
-          uses: ./
-          with:
-            output: 'HISTORY.md'
-            token: ${{ secrets.PAT_TOKEN }}
+        uses: ./
+        with:
+          output: 'HISTORY.md'
+          token: ${{ secrets.PAT_TOKEN }}
