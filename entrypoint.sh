@@ -9,4 +9,4 @@ echo "Repository: $REPOSITORY"
 echo "Repository owner: $GITHUB_REPOSITORY_OWNER"
 echo "Output: $INPUT_OUTPUT"
 
-github_changelog_generator -u "$GITHUB_REPOSITORY_OWNER" -p "$REPOSITORY" --token "$INPUT_TOKEN" -o "$INPUT_OUPUT"
+github_changelog_generator -u "$GITHUB_REPOSITORY_OWNER" -p "$REPOSITORY" --token "$INPUT_TOKEN" -o "$GITHUB_WORKSPACE/$INPUT_OUPUT"
