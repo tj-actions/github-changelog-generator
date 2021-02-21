@@ -9,4 +9,4 @@ echo "Repository: $REPOSITORY"
 echo "Repository owner: $GITHUB_REPOSITORY_OWNER"
 echo "Output: $2"
 
-github_changelog_generator -u "$GITHUB_REPOSITORY_OWNER" -p "$REPOSITORY" -t "$1" --base="$2" --output="$2"
+github_changelog_generator -u "$GITHUB_REPOSITORY_OWNER" -p "$REPOSITORY" -t "$1" --base "" --output="$2"
