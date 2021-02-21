@@ -19,7 +19,7 @@ jobs:
           paths: |
             README.md
       - name: Generate CHANGELOG
-        uses: tj-actions/github-changelog-generator@v1.1
+        uses: tj-actions/github-changelog-generator@v1.2
         with:
           token: ${{ secrets.PAT_TOKEN }}
           output: 'HISTORY.md'
