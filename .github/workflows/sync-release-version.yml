@@ -19,7 +19,7 @@ jobs:
           paths: |
             README.md
       - name: Generate CHANGELOG
-        uses: tj-actions/github-changelog-generator@v1
+        uses: tj-actions/github-changelog-generator@v1.1
         with:
           output: 'HISTORY.md'
       - run: |
