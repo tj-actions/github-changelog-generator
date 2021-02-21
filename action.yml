@@ -16,8 +16,8 @@ runs:
   image: 'Dockerfile'
   entrypoint: '/entrypoint.sh'
   args:
-    - ${{ input.token }}
-    - ${{ input.output }}
+    - ${{ inputs.token }}
+    - ${{ inputs.output }}
 branding:
   icon: list
   color: white
