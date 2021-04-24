@@ -2,13 +2,20 @@ FROM ruby:3.0.1-alpine3.13
 
 LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
 
-RUN apk add bash git
+RUN apk add bash git build-base
 
 COPY Gemfile Gemfile
 
-RUN gem install bundler --version 2.2.16 \
+RUN apk add --no-cache \
+  --virtual .gem-installdeps \
+  build-base \
+  && gem install bundler --version 2.2.15 \
+  && bundle config set --local system 'true' \
   && bundle install \
-  && gem uninstall bundler
+  && gem uninstall bundler \
+  && rm Gemfile Gemfile.lock \
+  && rm -rf "$GEM_HOME"/cache \
+  && apk del .gem-installdeps
 
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
