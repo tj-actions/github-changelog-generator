@@ -9,7 +9,7 @@ COPY Gemfile Gemfile
 RUN apk add --no-cache \
   --virtual .gem-installdeps \
   build-base \
-  && gem install bundler --version 2.2.15 \
+  && gem install bundler --version 2.2.16 \
   && bundle config set --local system 'true' \
   && bundle install \
   && gem uninstall bundler \
