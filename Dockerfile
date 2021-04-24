@@ -6,7 +6,7 @@ RUN apk add bash git
 
 COPY Gemfile Gemfile
 
-RUN gem install bundler --version 2.0.2 \
+RUN gem install bundler --version 2.2.16 \
   && bundle install \
   && gem uninstall bundler
 
