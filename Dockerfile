@@ -2,7 +2,7 @@ FROM ruby:3.0.1-alpine3.13
 
 LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
 
-RUN apk add bash git build-base
+RUN apk add bash git
 
 COPY Gemfile Gemfile
 
