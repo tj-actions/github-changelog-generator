@@ -1,4 +1,4 @@
-FROM ruby:latest-alpine3.9
+FROM ruby:3.0.1-alpine3.9
 
 LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
 
