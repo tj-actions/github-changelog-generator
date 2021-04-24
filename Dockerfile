@@ -7,7 +7,7 @@ RUN apk add bash git
 COPY Gemfile Gemfile
 
 RUN gem install bundler --version 2.0.2 \
-  && bundle install --system \
+  && bundle install \
   && gem uninstall bundler
 
 COPY entrypoint.sh /entrypoint.sh
