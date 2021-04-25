@@ -10,7 +10,7 @@ Github CHANGELOG generator
     steps:
       - uses: actions/checkout@v2
       - name: Generate CHANGELOG
-        uses: tj-actions/github-changelog-generator@v1.5
+        uses: tj-actions/github-changelog-generator@v1.6
         with:
           output: 'HISTORY.md'
 ```
