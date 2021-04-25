@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.4](https://github.com/tj-actions/github-changelog-generator/tree/v1.4) (2021-04-25)
+
+[Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.3...v1.4)
+
+**Merged pull requests:**
+
+- Update Dockerfile [\#14](https://github.com/tj-actions/github-changelog-generator/pull/14) ([jackton1](https://github.com/jackton1))
+- Upgraded bundler [\#13](https://github.com/tj-actions/github-changelog-generator/pull/13) ([jackton1](https://github.com/jackton1))
+- Upgraded ruby and fixed deprecation warnings. [\#12](https://github.com/tj-actions/github-changelog-generator/pull/12) ([jackton1](https://github.com/jackton1))
+- Update ruby Docker tag to v2.6.5 [\#9](https://github.com/tj-actions/github-changelog-generator/pull/9) ([renovate[bot]](https://github.com/apps/renovate))
+- Configure Renovate [\#7](https://github.com/tj-actions/github-changelog-generator/pull/7) ([renovate[bot]](https://github.com/apps/renovate))
+- Upgraded to v1.3 [\#4](https://github.com/tj-actions/github-changelog-generator/pull/4) ([jackton1](https://github.com/jackton1))
+
 ## [v1.3](https://github.com/tj-actions/github-changelog-generator/tree/v1.3) (2021-02-21)
 
 [Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.2...v1.3)
