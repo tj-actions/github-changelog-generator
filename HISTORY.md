@@ -1,5 +1,21 @@
 # Changelog
 
+## [v1.7](https://github.com/tj-actions/github-changelog-generator/tree/v1.7) (2021-05-04)
+
+[Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.6...v1.7)
+
+**Closed issues:**
+
+- Switch to composite action [\#6](https://github.com/tj-actions/github-changelog-generator/issues/6)
+
+**Merged pull requests:**
+
+- Bump tj-actions/sync-release-version from v8 to v8.5 [\#21](https://github.com/tj-actions/github-changelog-generator/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Upgrade to GitHub-native Dependabot [\#20](https://github.com/tj-actions/github-changelog-generator/pull/20) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- Update tj-actions/github-changelog-generator action to v1.6 [\#19](https://github.com/tj-actions/github-changelog-generator/pull/19) ([renovate[bot]](https://github.com/apps/renovate))
+- Upgraded to v1.6 [\#18](https://github.com/tj-actions/github-changelog-generator/pull/18) ([jackton1](https://github.com/jackton1))
+- Update dependency github\_changelog\_generator to v1.16.2 [\#15](https://github.com/tj-actions/github-changelog-generator/pull/15) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.6](https://github.com/tj-actions/github-changelog-generator/tree/v1.6) (2021-04-25)
 
 [Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.5...v1.6)
