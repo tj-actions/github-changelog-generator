@@ -19,5 +19,5 @@ runs:
     - ${{ inputs.token }}
     - ${{ inputs.output }}
 branding:
-  icon: list
+  icon: file-text
   color: white
