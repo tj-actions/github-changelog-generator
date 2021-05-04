@@ -1,4 +1,4 @@
-name: Github change log generator 
+name: Github CHANGELOG generator 
 description: Github CHANGELOG generator
 author: tj-actions
 inputs:
