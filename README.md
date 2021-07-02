@@ -33,7 +33,7 @@ If you feel generous and want to show some extra appreciation:
 
 ## Features
 
-*   Generates Change logs using [github-changelog-generator](github-changelog-generator/github-changelog-generator)
+*   Generates `CHANGELOG.md` using [github-changelog-generator](github-changelog-generator/github-changelog-generator)
 
 ## Credits
 
