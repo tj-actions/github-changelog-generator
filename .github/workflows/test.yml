@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2.3.4
       - name: shellcheck
-        uses: reviewdog/action-shellcheck@v1.7
+        uses: reviewdog/action-shellcheck@v1.9
       - name: Run github-changelog-generator
         uses: ./
         with:
