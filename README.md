@@ -2,7 +2,7 @@
 
 ## github-changelog-generator
 
-Genrate CHANGELOG/HISTORY markdown files for your project
+Generate CHANGELOG/HISTORY markdown files for your project
 
 ```yaml
 ...
