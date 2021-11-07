@@ -31,9 +31,6 @@ If you feel generous and want to show some extra appreciation:
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png
 
-## Features
-
-*   Generates `CHANGELOG.md` using [github-changelog-generator](github-changelog-generator/github-changelog-generator)
 
 ## Credits
 
