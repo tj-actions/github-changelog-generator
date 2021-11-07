@@ -2,7 +2,7 @@
 
 ## github-changelog-generator
 
-Genrate github CHANGELOG's using [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+Genrate CHANGELOG/HISTORY markdown files for your project
 
 ```yaml
 ...
@@ -38,6 +38,7 @@ If you feel generous and want to show some extra appreciation:
 ## Credits
 
 This package was created with [Cookiecutter](https://github.com/cookiecutter/cookiecutter).
+* [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
 
 ## Report Bugs
 
