@@ -31,11 +31,11 @@ If you feel generous and want to show some extra appreciation:
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png
 
-
 ## Credits
 
 This package was created with [Cookiecutter](https://github.com/cookiecutter/cookiecutter).
-* [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+
+*   [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
 
 ## Report Bugs
 
