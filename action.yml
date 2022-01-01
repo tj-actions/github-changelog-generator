@@ -1,5 +1,5 @@
-name: Github changelog generator 
-description: Github changelog generator
+name: Github Changelog Generator 
+description: Github Changelog Generator
 author: tj-actions
 inputs:
   token:
