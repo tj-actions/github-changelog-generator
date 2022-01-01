@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.10](https://github.com/tj-actions/github-changelog-generator/tree/v1.10) (2022-01-01)
+
+[Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.9...v1.10)
+
+**Merged pull requests:**
+
+- Upgraded to v1.9 [\#83](https://github.com/tj-actions/github-changelog-generator/pull/83) ([jackton1](https://github.com/jackton1))
+
 ## [v1.9](https://github.com/tj-actions/github-changelog-generator/tree/v1.9) (2021-12-28)
 
 [Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.8...v1.9)
