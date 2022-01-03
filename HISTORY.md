@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.11](https://github.com/tj-actions/github-changelog-generator/tree/v1.11) (2022-01-03)
+
+[Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.10...v1.11)
+
+**Merged pull requests:**
+
+- Update tj-actions/github-changelog-generator action to v1.10 [\#85](https://github.com/tj-actions/github-changelog-generator/pull/85) ([renovate[bot]](https://github.com/apps/renovate))
+- Upgraded to v1.10 [\#84](https://github.com/tj-actions/github-changelog-generator/pull/84) ([jackton1](https://github.com/jackton1))
+
 ## [v1.10](https://github.com/tj-actions/github-changelog-generator/tree/v1.10) (2022-01-01)
 
 [Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.9...v1.10)
