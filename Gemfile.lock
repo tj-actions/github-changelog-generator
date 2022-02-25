@@ -1,4 +1,7 @@
 GEM
+  specs:
+
+GEM
   remote: https://rubygems.org/
   specs:
     activesupport (6.1.4.6)
@@ -94,10 +97,10 @@ GEM
     zeitwerk (2.5.4)
 
 PLATFORMS
-  ruby
+  universal-darwin-21
 
 DEPENDENCIES
   github_changelog_generator (= 1.16.4)!
 
 BUNDLED WITH
-   1.17.2
+   2.3.8
