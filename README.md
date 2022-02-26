@@ -12,7 +12,7 @@ Generate CHANGELOG/HISTORY markdown files for your project
     steps:
       - uses: actions/checkout@v2
       - name: Generate CHANGELOG
-        uses: tj-actions/github-changelog-generator@v1.11
+        uses: tj-actions/github-changelog-generator@v1.12
         with:
           output: 'HISTORY.md'
 ```

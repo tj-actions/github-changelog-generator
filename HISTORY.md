@@ -1,5 +1,25 @@
 # Changelog
 
+## [v1.12](https://github.com/tj-actions/github-changelog-generator/tree/v1.12) (2022-02-26)
+
+[Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.11...v1.12)
+
+**Merged pull requests:**
+
+- Added Gemfile.lock [\#100](https://github.com/tj-actions/github-changelog-generator/pull/100) ([jackton1](https://github.com/jackton1))
+- Update docker/login-action action to v1.13.0 [\#99](https://github.com/tj-actions/github-changelog-generator/pull/99) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/sync-release-version action to v11 [\#98](https://github.com/tj-actions/github-changelog-generator/pull/98) ([renovate[bot]](https://github.com/apps/renovate))
+- Updated README.md [\#97](https://github.com/tj-actions/github-changelog-generator/pull/97) ([jackton1](https://github.com/jackton1))
+- Update reviewdog/action-shellcheck action to v1.14 [\#96](https://github.com/tj-actions/github-changelog-generator/pull/96) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/build-push-action action to v2.9.0 [\#95](https://github.com/tj-actions/github-changelog-generator/pull/95) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v3.12.1 [\#94](https://github.com/tj-actions/github-changelog-generator/pull/94) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/build-push-action action to v2.8.0 [\#93](https://github.com/tj-actions/github-changelog-generator/pull/93) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/remark action to v2.3 [\#92](https://github.com/tj-actions/github-changelog-generator/pull/92) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/remark action to v2.2 [\#91](https://github.com/tj-actions/github-changelog-generator/pull/91) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/remark action to v2 [\#90](https://github.com/tj-actions/github-changelog-generator/pull/90) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/github-changelog-generator action to v1.11 [\#89](https://github.com/tj-actions/github-changelog-generator/pull/89) ([renovate[bot]](https://github.com/apps/renovate))
+- Upgraded to v1.11 [\#86](https://github.com/tj-actions/github-changelog-generator/pull/86) ([jackton1](https://github.com/jackton1))
+
 ## [v1.11](https://github.com/tj-actions/github-changelog-generator/tree/v1.11) (2022-01-03)
 
 [Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.10...v1.11)
