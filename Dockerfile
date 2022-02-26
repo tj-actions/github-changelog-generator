@@ -4,7 +4,7 @@ LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
 
 RUN apk add bash git
 
-COPY Gemfile Gemfile
+COPY Gemfile* ./
 
 RUN apk add --no-cache \
   --virtual .gem-installdeps \
