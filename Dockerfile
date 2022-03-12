@@ -2,6 +2,8 @@ FROM ruby:3.0.3-alpine3.13
 
 LABEL maintainer="Tonye Jack <jtonye@ymail.com>"
 
+RUN apk add bash
+
 COPY Gemfile* ./
 
 RUN apk add --no-cache \
