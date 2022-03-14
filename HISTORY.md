@@ -1,5 +1,25 @@
 # Changelog
 
+## [v1.13](https://github.com/tj-actions/github-changelog-generator/tree/v1.13) (2022-03-14)
+
+[Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.12...v1.13)
+
+**Merged pull requests:**
+
+- chore\(deps\): lock file maintenance [\#113](https://github.com/tj-actions/github-changelog-generator/pull/113) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/verify-changed-files action to v9 [\#112](https://github.com/tj-actions/github-changelog-generator/pull/112) ([renovate[bot]](https://github.com/apps/renovate))
+- chore: Removed unused code and bumped bundler version [\#111](https://github.com/tj-actions/github-changelog-generator/pull/111) ([jackton1](https://github.com/jackton1))
+- Update codacy/codacy-analysis-cli-action action to v4.0.2 [\#110](https://github.com/tj-actions/github-changelog-generator/pull/110) ([renovate[bot]](https://github.com/apps/renovate))
+- Update codacy/codacy-analysis-cli-action action to v4.0.1 [\#109](https://github.com/tj-actions/github-changelog-generator/pull/109) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/login-action action to v1.14.1 [\#108](https://github.com/tj-actions/github-changelog-generator/pull/108) ([renovate[bot]](https://github.com/apps/renovate))
+- Update actions/checkout action [\#107](https://github.com/tj-actions/github-changelog-generator/pull/107) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v3.14.0 [\#106](https://github.com/tj-actions/github-changelog-generator/pull/106) ([renovate[bot]](https://github.com/apps/renovate))
+- Update peter-evans/create-pull-request action to v3.13.0 [\#105](https://github.com/tj-actions/github-changelog-generator/pull/105) ([renovate[bot]](https://github.com/apps/renovate))
+- Update docker/login-action action to v1.14.0 [\#104](https://github.com/tj-actions/github-changelog-generator/pull/104) ([renovate[bot]](https://github.com/apps/renovate))
+- Lock file maintenance [\#103](https://github.com/tj-actions/github-changelog-generator/pull/103) ([renovate[bot]](https://github.com/apps/renovate))
+- Update tj-actions/github-changelog-generator action to v1.12 [\#102](https://github.com/tj-actions/github-changelog-generator/pull/102) ([renovate[bot]](https://github.com/apps/renovate))
+- Upgraded to v1.12 [\#101](https://github.com/tj-actions/github-changelog-generator/pull/101) ([jackton1](https://github.com/jackton1))
+
 ## [v1.12](https://github.com/tj-actions/github-changelog-generator/tree/v1.12) (2022-02-26)
 
 [Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.11...v1.12)
