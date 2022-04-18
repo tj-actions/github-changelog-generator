@@ -80,7 +80,7 @@ GEM
     protocol-http2 (0.14.2)
       protocol-hpack (~> 1.4)
       protocol-http (~> 0.18)
-    public_suffix (4.0.6)
+    public_suffix (4.0.7)
     rainbow (3.1.1)
     rake (13.0.6)
     ruby2_keywords (0.0.5)
