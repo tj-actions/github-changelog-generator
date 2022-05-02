@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.0.2.3)
+    activesupport (7.0.2.4)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
@@ -74,8 +74,8 @@ GEM
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     protocol-hpack (1.4.2)
-    protocol-http (0.22.5)
-    protocol-http1 (0.14.2)
+    protocol-http (0.22.6)
+    protocol-http1 (0.14.4)
       protocol-http (~> 0.22)
     protocol-http2 (0.14.2)
       protocol-hpack (~> 1.4)
