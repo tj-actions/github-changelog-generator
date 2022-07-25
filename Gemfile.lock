@@ -70,7 +70,7 @@ GEM
       faraday (>= 0.17.3, < 3)
     timers (4.3.3)
     traces (0.4.1)
-    tzinfo (2.0.4)
+    tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
 
 PLATFORMS
