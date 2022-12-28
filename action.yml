@@ -13,7 +13,7 @@ inputs:
 
 runs:
   using: 'docker'
-  image: 'docker://ghcr.io/tj-actions/schemaspy:latest'
+  image: 'docker://ghcr.io/tj-actions/github-changelog-generator:latest'
 branding:
   icon: file-text
   color: white
