@@ -2,7 +2,19 @@
 
 ## [v1](https://github.com/tj-actions/github-changelog-generator/tree/v1) (2022-12-28)
 
-[Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.16...v1)
+[Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.17...v1)
+
+## [v1.17](https://github.com/tj-actions/github-changelog-generator/tree/v1.17) (2022-12-28)
+
+[Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.16...v1.17)
+
+**Merged pull requests:**
+
+- Updated README.md [\#209](https://github.com/tj-actions/github-changelog-generator/pull/209) ([jackton1](https://github.com/jackton1))
+- Updated README.md [\#208](https://github.com/tj-actions/github-changelog-generator/pull/208) ([jackton1](https://github.com/jackton1))
+- chore\(deps\): update tj-actions/github-changelog-generator action to v1.16 [\#207](https://github.com/tj-actions/github-changelog-generator/pull/207) ([renovate[bot]](https://github.com/apps/renovate))
+- Upgraded to v1.16 [\#206](https://github.com/tj-actions/github-changelog-generator/pull/206) ([jackton1](https://github.com/jackton1))
+- chore: update to use ghcr [\#205](https://github.com/tj-actions/github-changelog-generator/pull/205) ([jackton1](https://github.com/jackton1))
 
 ## [v1.16](https://github.com/tj-actions/github-changelog-generator/tree/v1.16) (2022-12-28)
 
