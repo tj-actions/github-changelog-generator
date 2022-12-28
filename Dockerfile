@@ -9,7 +9,7 @@ COPY Gemfile* ./
 RUN apk add --no-cache \
   --virtual .gem-installdeps \
   build-base \
-  && gem install bundler --version 2.3.9 \
+  && gem install bundler --version 2.4.1 \
   && bundle config set --local system 'true' \
   && bundle install \
   && gem uninstall bundler \
