@@ -19,10 +19,14 @@ Generate CHANGELOG/HISTORY markdown files for your project
 
 ## Inputs
 
-|   Input       |    type    |  required     |  default                      |  description  |
-|:-------------:|:-----------:|:-------------:|:----------------------------:|:-------------:|
-| token         |  `string`   |    `true`    | `${{ github.token }}` | [GITHUB\_TOKEN](https://docs.github.com/en/free-pro-team@latest/actions/reference/authentication-in-a-workflow#using-the-github_token-in-a-workflow) <br /> or a repo scoped <br /> [Personal Access Token](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token)              |
-| output        |  `string`   |  `false`     | `CHANGELOG.md`        | The Changelog output file. |
+<!-- AUTO-DOC-INPUT:START - Do not remove or modify this section -->
+
+| INPUT  |  TYPE  | REQUIRED |         DEFAULT         |                                                                                                                                                    DESCRIPTION                                                                                                                                                    |
+|--------|--------|----------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| output | string |  false   |    `"CHANGELOG.md"`     |                                                                                                                                             The changelog output file                                                                                                                                             |
+| token  | string |   true   | `"${{ github.token }}"` | [GITHUB\_TOKEN](https://docs.github.com/en/free-pro-team@latest/actions/reference/authentication-in-a-workflow#using-the-github_token-in-a-workflow) or a repo scoped [Personal Access<br>Token](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token) |
+
+<!-- AUTO-DOC-INPUT:END -->
 
 *   Free software: [MIT license](LICENSE)
 
