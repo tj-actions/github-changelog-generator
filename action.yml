@@ -14,6 +14,7 @@ inputs:
 runs:
   using: 'docker'
   image: 'docker://ghcr.io/tj-actions/github-changelog-generator:latest'
+  entrypoint: '/entrypoint.sh'
 branding:
   icon: file-text
   color: white
