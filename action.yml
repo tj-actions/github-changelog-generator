@@ -13,11 +13,7 @@ inputs:
 
 runs:
   using: 'docker'
-  image: 'Dockerfile'
-  entrypoint: '/entrypoint.sh'
-  args:
-    - ${{ inputs.token }}
-    - ${{ inputs.output }}
+  image: 'docker://ghcr.io/tj-actions/schemaspy:latest'
 branding:
   icon: file-text
   color: white
