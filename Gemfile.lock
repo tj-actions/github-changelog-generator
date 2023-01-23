@@ -30,7 +30,7 @@ GEM
     concurrent-ruby (1.1.10)
     console (1.16.2)
       fiber-local
-    faraday (2.7.2)
+    faraday (2.7.4)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-http-cache (2.4.1)
