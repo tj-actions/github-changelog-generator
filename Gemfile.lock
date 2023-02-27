@@ -27,7 +27,7 @@ GEM
       async
     async-pool (0.3.12)
       async (>= 1.25)
-    concurrent-ruby (1.2.0)
+    concurrent-ruby (1.2.2)
     console (1.16.2)
       fiber-local
     faraday (2.7.4)
