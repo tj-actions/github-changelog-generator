@@ -1,8 +1,43 @@
 # Changelog
 
-## [v1](https://github.com/tj-actions/github-changelog-generator/tree/v1) (2022-12-28)
+## [v1](https://github.com/tj-actions/github-changelog-generator/tree/v1) (2023-03-09)
 
-[Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.17...v1)
+[Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.18...v1)
+
+## [v1.18](https://github.com/tj-actions/github-changelog-generator/tree/v1.18) (2023-03-09)
+
+[Full Changelog](https://github.com/tj-actions/github-changelog-generator/compare/v1.17...v1.18)
+
+**Merged pull requests:**
+
+- chore\(deps\): update tj-actions/auto-doc action to v2 [\#241](https://github.com/tj-actions/github-changelog-generator/pull/241) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update codacy/codacy-analysis-cli-action action to v4.3.0 [\#240](https://github.com/tj-actions/github-changelog-generator/pull/240) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): lock file maintenance [\#239](https://github.com/tj-actions/github-changelog-generator/pull/239) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): lock file maintenance [\#238](https://github.com/tj-actions/github-changelog-generator/pull/238) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update pascalgn/automerge-action action to v0.15.6 [\#237](https://github.com/tj-actions/github-changelog-generator/pull/237) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): lock file maintenance [\#236](https://github.com/tj-actions/github-changelog-generator/pull/236) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update ruby docker tag to v3.2.1 [\#235](https://github.com/tj-actions/github-changelog-generator/pull/235) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update docker/setup-buildx-action action to v2.4.1 [\#234](https://github.com/tj-actions/github-changelog-generator/pull/234) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): lock file maintenance [\#233](https://github.com/tj-actions/github-changelog-generator/pull/233) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): bump docker/build-push-action from 3.3.0 to 4.0.0 [\#232](https://github.com/tj-actions/github-changelog-generator/pull/232) ([dependabot[bot]](https://github.com/apps/dependabot))
+- chore\(deps\): update docker/setup-buildx-action action to v2.4.0 [\#229](https://github.com/tj-actions/github-changelog-generator/pull/229) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): lock file maintenance [\#228](https://github.com/tj-actions/github-changelog-generator/pull/228) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update docker/setup-buildx-action action to v2.3.0 [\#227](https://github.com/tj-actions/github-changelog-generator/pull/227) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): lock file maintenance [\#226](https://github.com/tj-actions/github-changelog-generator/pull/226) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update reviewdog/action-shellcheck action to v1.17 [\#225](https://github.com/tj-actions/github-changelog-generator/pull/225) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): bump activesupport from 7.0.4 to 7.0.4.1 [\#224](https://github.com/tj-actions/github-changelog-generator/pull/224) ([dependabot[bot]](https://github.com/apps/dependabot))
+- chore\(deps\): lock file maintenance [\#223](https://github.com/tj-actions/github-changelog-generator/pull/223) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update docker/build-push-action action to v3.3.0 [\#222](https://github.com/tj-actions/github-changelog-generator/pull/222) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): lock file maintenance [\#221](https://github.com/tj-actions/github-changelog-generator/pull/221) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update actions/checkout action to v3.3.0 [\#220](https://github.com/tj-actions/github-changelog-generator/pull/220) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update tj-actions/auto-doc action to v1.7.3 [\#219](https://github.com/tj-actions/github-changelog-generator/pull/219) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): lock file maintenance [\#217](https://github.com/tj-actions/github-changelog-generator/pull/217) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update tj-actions/auto-doc action to v1.7.2 [\#216](https://github.com/tj-actions/github-changelog-generator/pull/216) ([renovate[bot]](https://github.com/apps/renovate))
+- Updated README.md [\#215](https://github.com/tj-actions/github-changelog-generator/pull/215) ([jackton1](https://github.com/jackton1))
+- chore\(deps\): update tj-actions/auto-doc action to v1.7.1 [\#214](https://github.com/tj-actions/github-changelog-generator/pull/214) ([renovate[bot]](https://github.com/apps/renovate))
+- Upgraded to v1.17 [\#212](https://github.com/tj-actions/github-changelog-generator/pull/212) ([jackton1](https://github.com/jackton1))
+- chore\(deps\): lock file maintenance [\#211](https://github.com/tj-actions/github-changelog-generator/pull/211) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update tj-actions/github-changelog-generator action to v1.17 [\#210](https://github.com/tj-actions/github-changelog-generator/pull/210) ([renovate[bot]](https://github.com/apps/renovate))
 
 ## [v1.17](https://github.com/tj-actions/github-changelog-generator/tree/v1.17) (2022-12-28)
 
