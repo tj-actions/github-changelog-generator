@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.0.4.3)
+    activesupport (7.0.5)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
@@ -30,7 +30,7 @@ GEM
     concurrent-ruby (1.2.2)
     console (1.16.2)
       fiber-local
-    faraday (2.7.4)
+    faraday (2.7.5)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-http-cache (2.5.0)
