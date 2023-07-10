@@ -32,7 +32,7 @@ GEM
     console (1.17.2)
       fiber-annotation
       fiber-local
-    faraday (2.7.9)
+    faraday (2.7.10)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-http-cache (2.5.0)
