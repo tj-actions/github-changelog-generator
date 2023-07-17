@@ -64,7 +64,7 @@ GEM
     protocol-http2 (0.15.1)
       protocol-hpack (~> 1.4)
       protocol-http (~> 0.18)
-    public_suffix (5.0.1)
+    public_suffix (5.0.3)
     rainbow (3.1.1)
     rake (13.0.6)
     ruby2_keywords (0.0.5)
