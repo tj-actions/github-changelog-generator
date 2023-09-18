@@ -24,15 +24,17 @@ GEM
     async-http-faraday (0.12.0)
       async-http (~> 0.42)
       faraday
-    async-io (1.35.0)
+    async-io (1.36.0)
       async
     async-pool (0.4.0)
       async (>= 1.25)
+    base64 (0.1.1)
     concurrent-ruby (1.2.2)
     console (1.23.2)
       fiber-annotation
       fiber-local
-    faraday (2.7.10)
+    faraday (2.7.11)
+      base64
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-http-cache (2.5.0)
