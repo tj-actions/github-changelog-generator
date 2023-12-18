@@ -34,7 +34,7 @@ GEM
     async-pool (0.4.0)
       async (>= 1.25)
     base64 (0.2.0)
-    bigdecimal (3.1.4)
+    bigdecimal (3.1.5)
     concurrent-ruby (1.2.2)
     connection_pool (2.4.1)
     console (1.23.3)
