@@ -37,9 +37,10 @@ GEM
     bigdecimal (3.1.6)
     concurrent-ruby (1.2.3)
     connection_pool (2.4.1)
-    console (1.23.3)
+    console (1.23.4)
       fiber-annotation
       fiber-local
+      json
     drb (2.2.0)
       ruby2_keywords
     faraday (2.9.0)
@@ -62,6 +63,7 @@ GEM
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     io-event (1.4.3)
+    json (2.7.1)
     minitest (5.22.2)
     multi_json (1.15.0)
     mutex_m (0.2.0)
