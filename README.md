@@ -10,7 +10,7 @@ Generate CHANGELOG/HISTORY markdown files for your project
 ```yaml
 ...
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Generate CHANGELOG
         uses: tj-actions/github-changelog-generator@v1.15
         with:
