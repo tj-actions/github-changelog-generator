@@ -13,8 +13,8 @@ GEM
       tzinfo (~> 2.0)
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
-    async (2.14.2)
-      console (~> 1.25, >= 1.25.2)
+    async (2.15.0)
+      console (~> 1.26)
       fiber-annotation
       io-event (~> 1.6, >= 1.6.5)
     async-http (0.69.0)
@@ -26,10 +26,10 @@ GEM
       protocol-http1 (~> 0.19)
       protocol-http2 (~> 0.18)
       traces (>= 0.10)
-    async-http-faraday (0.14.0)
+    async-http-faraday (0.15.0)
       async-http (~> 0.42)
       faraday
-    async-pool (0.7.0)
+    async-pool (0.7.1)
       async (>= 1.25)
     base64 (0.2.0)
     bigdecimal (3.1.8)
@@ -40,7 +40,7 @@ GEM
       fiber-local (~> 1.1)
       json
     drb (2.2.1)
-    faraday (2.10.0)
+    faraday (2.10.1)
       faraday-net_http (>= 2.0, < 3.2)
       logger
     faraday-http-cache (2.5.1)
