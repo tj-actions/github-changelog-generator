@@ -18,13 +18,13 @@ GEM
       console (~> 1.26)
       fiber-annotation
       io-event (~> 1.6, >= 1.6.5)
-    async-http (0.76.0)
+    async-http (0.78.0)
       async (>= 2.10.2)
       async-pool (~> 0.7)
       io-endpoint (~> 0.11)
       io-stream (~> 0.4)
-      protocol-http (~> 0.34)
-      protocol-http1 (~> 0.20)
+      protocol-http (~> 0.37)
+      protocol-http1 (~> 0.25)
       protocol-http2 (~> 0.18)
       traces (>= 0.10)
     async-http-faraday (0.19.0)
@@ -43,8 +43,9 @@ GEM
       fiber-local (~> 1.1)
       json
     drb (2.2.1)
-    faraday (2.11.0)
+    faraday (2.12.0)
       faraday-net_http (>= 2.0, < 3.4)
+      json
       logger
     faraday-http-cache (2.5.1)
       faraday (>= 0.8)
@@ -79,8 +80,8 @@ GEM
       faraday (>= 1, < 3)
       sawyer (~> 0.9)
     protocol-hpack (1.5.1)
-    protocol-http (0.34.0)
-    protocol-http1 (0.22.0)
+    protocol-http (0.37.0)
+    protocol-http1 (0.25.0)
       protocol-http (~> 0.22)
     protocol-http2 (0.18.0)
       protocol-hpack (~> 1.4)
