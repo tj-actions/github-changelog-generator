@@ -16,7 +16,7 @@ GEM
       uri (>= 0.13.1)
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
-    async (2.21.3)
+    async (2.22.0)
       console (~> 1.29)
       fiber-annotation
       io-event (~> 1.7)
@@ -71,7 +71,7 @@ GEM
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
     io-endpoint (0.14.0)
-    io-event (1.7.5)
+    io-event (1.8.4)
     io-stream (0.6.1)
     json (2.9.1)
     logger (1.6.5)
